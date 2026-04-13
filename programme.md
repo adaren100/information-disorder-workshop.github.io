@@ -22,11 +22,11 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
 
 14.10-15.00 -- Keynote speech by **Prof. Claire Wardle**
 
-Revisiting the Information Disorder Framework: Reflecting on the use and relevance of definitions in our contemporary ecosystems.
+"Revisiting the Information Disorder Framework: Reflecting on the use and relevance of definitions in our contemporary ecosystems"
 
 15.00-15.15 -- **Best paper awards celebration**
 
-Combating Disinformation: Is There No Alternative?
+"Combating Disinformation: Is There No Alternative?"
 
 *Davide Bassi, Søren Kirkegaard Fomsgaard, Erik Bran Marino, Katarina Laken*
 
