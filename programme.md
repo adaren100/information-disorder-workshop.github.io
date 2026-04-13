@@ -15,18 +15,32 @@ title: Information Disorder Workshop (InDor)
 # Programme  
 **Information Disorder Workshop (InDor)**  
 Co-located with **LREC 2026** – Palma de Mallorca, Spain
+
 Room 5
 
-1st session 14.00-16.00
-- Workshop introduction 
-- Keynote speech by Prof. Claire Wardle
-- Best paper awards celebration
-- Remote presentations
+**1st session 14.00-16.00**
 
-Coffe break 16.00-16.30
+14.00-14.10 -- Workshop introduction 
 
-2nd session 16.30-18.00
-- Poster presentations
-- Round table discussion
-- Closing remarks
+14.10-15.00 -- Keynote speech by **Prof. Claire Wardle**
+
+Revisiting the Information Disorder Framework: Reflecting on the use and relevance of definitions in our contemporary ecosystems.
+
+15.00-15.15 -- **Best paper awards celebration**
+
+Combating Disinformation: Is There No Alternative?
+
+*Davide Bassi, Søren Kirkegaard Fomsgaard, Erik Bran Marino, Katarina Laken*
+
+15.15-15.45 -- Remote presentations
+
+**Coffe break 16.00-16.30**
+
+**2nd session 16.30-18.00**
+
+16.00-17.00 -- Poster presentations
+
+17.00-17.55 -- Round table discussion
+
+17.55-18.00 -- Closing remarks
 
