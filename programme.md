@@ -30,4 +30,3 @@ Coffe break 16.00-16.30
 - Round table discussion
 - Closing
 
----
