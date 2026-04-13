@@ -38,7 +38,7 @@ Combating Disinformation: Is There No Alternative?
 
 **2nd session 16.30-18.00**
 
-16.00-17.00 -- Poster presentations
+15.45-17.00 -- Poster presentations
 
 17.00-17.55 -- Round table discussion
 
