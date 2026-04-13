@@ -16,7 +16,7 @@ title: Information Disorder Workshop (InDor)
 **Information Disorder Workshop (InDor)**  
 Co-located with **LREC 2026** – Palma de Mallorca, Spain
 
-Room 5
+**Room 5**
 
 **1st session 14.00-16.00**
 
