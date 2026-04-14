@@ -22,7 +22,7 @@ title: Information Disorder Workshop (InDor)
 
 **Speaker:** Prof. Claire Wardle
 
-**Title:** "Revisiting the Information Disorder Framework: Reflecting on the use and relevance of definitions in our contemporary ecosystems"
+**Title:** Revisiting the Information Disorder Framework: Reflecting on the use and relevance of definitions in our contemporary ecosystems
 
 **Time:** 14.10-15.00
 
