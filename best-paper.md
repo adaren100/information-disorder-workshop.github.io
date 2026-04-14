@@ -16,7 +16,7 @@ title: Information Disorder Workshop (InDor)
 
 # Best Paper
 
-**Title:** "Combating Disinformation: Is There No Alternative?"
+**Title:** Combating Disinformation: Is There No Alternative?
 
 **Authors:** Davide Bassi, Søren Kirkegaard Fomsgaard, Erik Bran Marino, Katarina Laken
 
