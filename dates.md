@@ -7,6 +7,8 @@ title: Information Disorder Workshop (InDor)
   <a href="{{ '/cfp' | relative_url }}">Call for Papers</a> ·
   <a href="{{ '/dates' | relative_url }}"><strong>Important Dates</strong></a> ·
   <a href="{{ '/programme' | relative_url }}">Programme</a> ·
+  <a href="{{ '/keynote-speech' | relative_url }}">Keynote Speech</a> ·
+  <a href="{{ '/best-paper' | relative_url }}">Best Paper</a> ·
   <a href="{{ '/organizers' | relative_url }}">Organizers</a>
 </p>
 
